@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  kanji: MyString
+  meaning: MyString
+  onyomi: MyString
+  kunyomi: MyString
+
+two:
+  kanji: MyString
+  meaning: MyString
+  onyomi: MyString
+  kunyomi: MyString
